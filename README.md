@@ -3,7 +3,7 @@
 Change directory to blackjack-backend
 
 Install required packages:
-  npm install
+> npm install
 
 If all successful, start the server:
-  npm start
+> npm start
